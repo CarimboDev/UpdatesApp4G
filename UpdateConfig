@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.1",
-  "ReleaseNotes": "",
+  "Version": "1.0.3",
+  "ReleaseNotes": "Update 1.0.3",
   "UrlUpdate": "https://carimbodev.github.io/UpdatesApp4G/UpdateConfig",
   "Sms": "https://carimbodev.github.io/UpdatesApp4G/UpdateSms",
   "EmailFeedback": "carimbodeveloper2021@gmail.com",
