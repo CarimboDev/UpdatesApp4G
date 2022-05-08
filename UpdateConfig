@@ -28,8 +28,8 @@
       "CheckUser": "http://135.148.104.175:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "VieiraTeste",
-      "PASS": "testesenha"
+      "USER": "teste386",
+      "PASS": "1234"
     }
   ],
   "Networks": [
