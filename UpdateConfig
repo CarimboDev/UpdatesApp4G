@@ -82,6 +82,16 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
+    },
+    {
+      "Name": "Vivo 02",
+      "FLAG": "vivo",
+      "Payload": "GET wss://denuncia.olx.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "denuncia.olx.com.br",
+      "TlsIP": "denuncia.olx.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     }
   ]
 }
