@@ -20,17 +20,6 @@
       "USER": "",
       "PASS": ""
     },
-    {
-      "Name": "FREE 01 | PLUS",
-      "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "testes.vpscarimbo.ml",
-      "CheckUser": "http://135.148.104.175:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "teste16795",
-      "PASS": "1234"
-    }
   ],
   "Networks": [
     {
