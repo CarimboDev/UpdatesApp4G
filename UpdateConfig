@@ -34,11 +34,11 @@
   ],
   "Networks": [
     {
-      "Name": "Todas as Operadoras",
+      "Name": "Vivo SNL",
       "FLAG": "vivo",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "104.16.56.6",
+      "Payload": "GET ws://vivo.vpscarimbo2.tk HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "vivo.vpscarimbo2.tk",
+      "TlsIP": "104.18.7.80",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
